@@ -1,6 +1,5 @@
 let nomeHeroi = "Super Alegria"
 
-
 let forcaXp = 2403
 
 let nivel
